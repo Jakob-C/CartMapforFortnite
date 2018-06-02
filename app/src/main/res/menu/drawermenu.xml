@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="10dp">
+
+
+    <item android:title="Rate app"
+        android:id="@+id/rate"
+        android:layout_marginTop="10dp"
+        android:icon="@drawable/rating" />
+
+    <item android:title="Share app"
+        android:id="@+id/share"
+        android:layout_marginTop="10dp"
+        android:icon="@drawable/shareimg" />
+
+    <item android:title="More apps"
+        android:id="@+id/moreapps"
+        android:layout_marginTop="10dp"
+        android:icon="@drawable/playstoremin" />
+
+
+
+
+</menu>
